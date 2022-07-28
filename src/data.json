@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "image": "https://cdn.sanity.io/images/5fy8q4ux/production/0e000ebc1f96360e44b0a9a365f04e513fc869f9-2400x1800.png",
+    "title": "Spotify UI Redesign",
+    "username": "Fider",
+    "vote": "4.7",
+    "downloads": "{85,000}",
+    "price": "K55",
+    "oldPrice": "K105"
+  },
+  {
+    "id": "2",
+    "image": "https://cdn.sanity.io/images/5fy8q4ux/production/64ddcc865ecf07feaf1addbb3d8bb17efa6168fa-2100x1400.png",
+    "title": "E-Commerce App",
+    "username": "Fider",
+    "vote": "4.9",
+    "downloads": "{15,000}",
+    "price": "K45",
+    "oldPrice": "K205"
+  },
+  {
+    "id": "3",
+    "image": "https://cdn.sanity.io/images/5fy8q4ux/production/0e7b6c78cc454cbfa7cce6860889450335ff4b0b-2400x1800.png",
+    "title": "Landing Page",
+    "username": "Fider",
+    "vote": "4.5",
+    "downloads": "{25,000}",
+    "price": "K58",
+    "oldPrice": "K95"
+  },
+  {
+    "id": "4",
+    "image": "https://cdn.sanity.io/images/5fy8q4ux/production/289c96a1eb00dd325a987fe5adbd68bfeac17cad-2400x1800.png",
+    "title": "Modern Website",
+    "username": "Fider",
+    "vote": "4.9",
+    "downloads": "{35,000}",
+    "price": "K65",
+    "oldPrice": "K89"
+  },
+  {
+    "id": "5",
+    "image": "https://cdn.sanity.io/images/5fy8q4ux/production/5aff7873c5be550ad5a627f712be2f5b504877a0-2400x1800.png",
+    "title": "Twitter App",
+    "username": "Fider",
+    "vote": "4.8",
+    "downloads": "{3,000}",
+    "price": "K38",
+    "oldPrice": "K105"
+  }
+]
